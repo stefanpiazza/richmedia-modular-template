@@ -1,0 +1,54 @@
+.container {
+	position: relative;
+	width: 320px;
+	height: 320px;
+	margin: 0 auto;
+}
+
+#one {
+	position: absolute;
+	width: 320px;
+	height: 320px;
+	background-image: url('../images/1.jpg');
+	background-size: 320px 320px;
+}
+
+#two {
+	position: absolute;
+	width: 320px;
+	height: 320px;
+	background-image: url('../images/2.png');
+	background-size: 320px 320px;
+}
+
+#three {
+	position: absolute;
+	width: 320px;
+	height: 320px;
+	background-image: url('../images/3.png');
+	background-size: 320px 320px;
+}
+
+#four {
+	position: absolute;
+	width: 320px;
+	height: 320px;
+	background-image: url('../images/4.png');
+	background-size: 320px 320px;
+}
+
+#five {
+	position: absolute;
+	width: 320px;
+	height: 320px;
+	background-image: url('../images/5.png');
+	background-size: 320px 320px;
+}
+
+#six {
+	position: absolute;
+	width: 320px;
+	height: 320px;
+	background-image: url('../images/6.png');
+	background-size: 320px 320px;
+}
